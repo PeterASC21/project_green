@@ -1,0 +1,206 @@
+body
+{
+    margin: 0; 
+}
+
+#home_page
+{
+    background-image: url("images/earth.jpg");
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-position: center;
+    background-size: cover;
+    height: 730px;
+    color: white;
+}
+
+/*#nav_bar
+{
+    padding: 10px;
+    background: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: sticky;
+    top: 0;
+}*/
+
+#nav_bar
+{
+    padding: 20px;
+    display: flex; 
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.nav_items
+{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+/*#intro
+{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    text-align: center; 
+    font-size: 45px; 
+    font-weight: bold;
+}*/
+
+#intro
+{
+    text-align: center;
+    margin: 200px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#mission_page
+{
+    background-image: url("images/black.jpg");
+    text-align: center;
+    height: 230px;
+    padding: 20px;
+    color: white;
+}
+
+#climate_clock_video
+{
+    height: 650px;
+}
+
+#climate_change_page
+{
+    background-image: url("images/factory.jfif");
+    background-repeat: no-repeat;  
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    padding: 20px;
+    margin: 35px;
+    color: white;
+    font-size: 18px;
+}
+
+.overline
+{
+    text-decoration: overline;
+}
+
+.text-a
+{
+    text-align: center;
+}
+
+.text-ab
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+.underline
+{
+    text-decoration: underline;
+}
+
+#impact_page_intro
+{
+    background: url("images/black.jpg");
+    height: 630px; 
+    padding: 5px; 
+    color: white;
+}
+
+#impact_page
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.pair
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.size
+{
+    width: 400px;
+    height: 250px;
+}
+
+.margin
+{
+    margin: 10px;
+}
+
+#center
+{
+    display: flex;
+    justify-content: center;
+}
+
+#stories_page
+{
+    padding: 20px;
+}
+
+#data_page_intro
+{
+    background-image: url("images/black.jpg");
+    color: white;
+    padding: 20px;
+}
+
+#data_page
+{
+    height: 1400px;
+    padding: 20px;
+}
+
+#project_green
+{
+    background-image: url("images/mainimage.png");
+    height: 500px;
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+#get_involved_page
+{
+    padding: 20px;
+    height: 750px;
+    padding: 20px;
+    color: green;
+}
+
+.blue
+{
+    color: blue;
+}
+
+#contact_page_intro
+{
+    background-image: url("images/trees.jpg");
+    font-family: Helvetica, sans-serif;
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-position: center;
+    background-size: cover;
+    height: 450px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+}
+
+.none
+{
+    text-decoration: none;
+}
