@@ -63,7 +63,7 @@ body
 {
     background-image: url("images/black.jpg");
     text-align: center;
-    height: 230px;
+    height: 250px;
     padding: 20px;
     color: white;
 }
@@ -158,15 +158,22 @@ body
 
 #data_page
 {
-    height: 1400px;
+    height: 1600;
     padding: 20px;
+}
+
+.gradident_border
+{
+    border-style: solid;
+    border-color: white;
 }
 
 #project_green
 {
-    background-image: url("images/mainimage.png");
-    height: 500px;
-    background-repeat: no-repeat; 
+    background-image: url("images/FINAL.png");
+    height: 400px;
+    background-repeat: no-repeat;  
+    background-position: center;
     background-size: cover;
 }
 

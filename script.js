@@ -9,7 +9,8 @@ var aText = new Array(
     "We hope this app can inspire you and the world for change today.",
     "Everday counts and you can help make a huge difference!!!",
     "",
-    "Project | Green"
+    "Project | Green",
+    "Created and Designed By: Peter Wu, Ariel Acosta, Kevin Alvarez, Peace Ocran"
     );
     var iSpeed = 95; // time delay of print out
     var iIndex = 0; // start printing array at this posision
