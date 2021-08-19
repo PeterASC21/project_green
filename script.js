@@ -7,7 +7,7 @@ var aText = new Array(
     "and many more has put animals, living things and everyone's lives at stake.",
     "There is only a limited amount of time left before the impacts of climate change become irreversible.",
     "We hope this app can inspire you and the world for change today.",
-    "Everday counts and you can help make a huge difference!!!",
+    "Everyday counts and you can help make a huge difference!!!",
     "",
     "Project | Green",
     "Created and Designed By: Peter Wu, Ariel Acosta, Kevin Alvarez, Peace Ocran"
